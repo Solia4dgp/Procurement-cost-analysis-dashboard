@@ -24,19 +24,19 @@ This repository contains the cleaning steps and visualization files for a procur
 
 
 
-- Supplier performance
+- Supplier performance analysis
 
   Ranks suppliers by total amount spent, order volume and calculation of average cost per item per supplier.
 <img width="645" height="365" alt="Screenshot (189)" src="https://github.com/user-attachments/assets/ff7dd555-2c11-4098-88e5-bb26a2e3ddb3" />
 <img width="645" height="250" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/3171b2ff-b2d5-4462-9801-912951f23fe2" />
 
 
-- Category performance
+- Category performance analysis
 
   Compares total cost, average cost and purchase volume across all product categories.
 <img width="355" height="250" alt="Screenshot (147)" src="https://github.com/user-attachments/assets/df2d149d-f1cc-4231-bdc5-203cf4c244fb" />
 
-- Item-level insights:
+- Item level detail:
 
 Pinpointing top-performing items and pricing analysis.
 <img width="664" height="380" alt="Screenshot (191)" src="https://github.com/user-attachments/assets/c33fbd06-c72b-4fe5-bbe2-466d7116ff31" />
@@ -79,3 +79,13 @@ Limited supplier risk data: The dashboard focuses purely on cost. It does not in
 2. Technical and operational
    
 Spend classification: The accuracy of the category findings is entirely dependent on the quality of the initial data cleansing and classification 
+
+For a full breakdown and executive insights, check out the 4-part LinkedIn series
+
+Supplier performance analysis: https://www.linkedin.com/posts/aileru-solia-471407285_supplierperformance-procurementanalytics-activity-7401517908394221568-Zp2O?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVLMdUBDlhp6fhuqXMKrvomaXej1w4FXQI
+
+Category performance analysis: https://www.linkedin.com/posts/aileru-solia-471407285_categoryanalysis-spendoptimization-procurementstrategy-activity-7401885658711019520-ySCf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVLMdUBDlhp6fhuqXMKrvomaXej1w4FXQI
+
+Item level detail and buyer activity: https://www.linkedin.com/posts/aileru-solia-471407285_procurement-costanalysis-datadrivendecisions-activity-7402267163644035072-W7dd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVLMdUBDlhp6fhuqXMKrvomaXej1w4FXQI
+
+Executive overview: https://www.linkedin.com/posts/aileru-solia-471407285_procurement-costanalysis-spendanalytics-activity-7402649531382648832-qp12?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVLMdUBDlhp6fhuqXMKrvomaXej1w4FXQI
