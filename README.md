@@ -19,8 +19,9 @@ This repository contains the cleaning steps and visualization files for a procur
 ## Dashboard pages 
 - Executive overview
   
-  High-level summary of total cost, top suppliers and monthly spending trends.
-<img width="525" height="357" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/c926bd12-e36c-454a-8316-b16ea1a28533" />
+  High-level summary of total cost, top suppliers and monthly spending trends.<img width="628" height="319" alt="Screenshot (236)" src="https://github.com/user-attachments/assets/0aaf4e36-618c-4f10-943f-5d82635613fd" />
+
+
 
 
 - Supplier performance
