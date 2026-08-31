@@ -71,7 +71,7 @@ Mitigate supplier risk: Develop a secondary supplier for key items purchased fro
    
 Implement compliance training: Use the Buyer Activity dashboard to identify the top 10 buyers with the highest non-compliant or diverse spending. Implement an e-procurement system for quick, compliant purchases.
 
-# 🚧 Limitations 
+# Limitations 
 1. Data quality and scope
 
 Limited supplier risk data: The dashboard focuses purely on cost. It does not include critical non-financial KPIs such as on-time delivery rate, supplier quality score (defect rate), or financial stability data, all of which are vital for a complete risk assessment.
