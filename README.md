@@ -1,11 +1,11 @@
-# Procurement_dashboard
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e3b2db71-475e-4971-97c4-24ee59532343" /># Procurement_dashboard
 Executive dashboard for analyzing procurement and supplier performance
 
 ## Table of content
 - [Project overview](#Project-overview)
 - [Data cleaning and preparation](#Data-cleaning-and-preparation)
-- [Dashboard pages](#Dashboard_pages)
-- [Key findings](#Key_findings)
+- [Dashboard pages](#Dashboard-pages)
+- [Key findings](#Key-findings)
 - [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
 ## Project overview
