@@ -46,7 +46,7 @@ Pinpointing top-performing items and pricing analysis.
    Analyzes spending patterns by individual buyers based on expenditure and purchase diversity.
 <img width="611" height="356" alt="Screenshot (192)" src="https://github.com/user-attachments/assets/b7083b38-f370-44eb-b21e-f01d54bf34f3" />
 
-## 🔬 Key findings 
+## Key findings 
 
 1. High-value concentration
    
@@ -60,7 +60,7 @@ Positive spending trend: The monthly spending trend shows a general downward tra
 
 Purchase velocity: The high volume of orders relative to the total cost suggests a relatively high frequency of low-value transactions.
 
-# 🚀 Recommendations 
+## Recommendations 
 1. Strategic sourcing focus
    
 Initiate strategic sourcing: Launch immediate, high-priority sourcing projects for Electronics and Software. 
