@@ -3,7 +3,7 @@ Executive dashboard for analyzing procurement and supplier performance
 
 ## Table of content
 - [Project overview](#Project_overview)
-- [Data cleaning and preparation](#Data_cleaning_and_preparatio)
+- [Data cleaning and preparation](#Data_cleaning_and_preparation)
 - [Dashboard pages](#Dashboard_pages)
 - [Key findings](#Key_findings)
 - [Recommendations](#Recommendations)
